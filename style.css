@@ -1,0 +1,181 @@
+
+body{
+    width: 100%;
+    height:100%;
+    padding: 10px;
+    margin: 10px;
+    background-color: #E6E6FA;
+    background-image: url('istockphoto-1436210595-612x612.jpg');
+
+}
+
+.halo{
+    background-image: url('a3c153_cb8d65b45f19471586f4a3be50864727~mv2.webp');
+
+}
+header{
+    padding: auto;
+    text-align: center;
+    margin:0;
+    background-color: antiquewhite;
+
+}
+nav{
+    display: flex;
+    justify-content: center;
+    margin-top: auto;
+   
+}
+nav a{
+    color: black;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: block;
+    text-align: center;
+    margin: 20px;
+}
+.color{
+    background-color: antiquewhite;
+}
+nav a:hover{
+    background-color:chocolate;
+}
+
+.first{
+      display: flex;
+      margin-top: 50px;
+    
+}
+.wew{
+    justify-content: center;
+    margin-top: 20%;
+    margin-left: 100px;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: blanchedalmond;
+}
+
+
+
+div{
+    padding-left: 100px;
+}
+
+img{
+    height:500px ;
+    width: 500px;
+    margin-top: 20px;
+    margin-left: 500px;
+    justify-content: center;
+  
+   
+    
+}
+hr{
+    width:100%;
+}
+
+h1{
+    width: 400px;
+    margin-bottom: 20px;
+    text-align: justify;
+
+}
+h2{
+    justify-content: center;
+    margin-left: 15%;
+    font-size: 80px;
+}
+
+.homesec{
+    padding-top: 2px;
+    padding: 20px;
+    display: flex;
+    margin-top: 0px;
+    background-color:chocolate;
+}
+.about{
+    justify-content: center;
+  margin-bottom: 2px;
+  margin-left: 35%;
+  margin-top: 3%;
+}
+
+
+.proj{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+
+.una{
+    justify-content: right;
+    margin-left: 2px;
+    margin-top: 100px;
+}
+.third{
+    justify-content: right;
+    margin-left: 2px;
+    
+}
+.second{
+    justify-content: right;
+    margin-left: 2px;
+   
+}
+.this{
+    box-sizing: content-box;
+    justify-content: space-evenly;
+}
+.pic{
+  justify-content: center;
+  margin-bottom: 2px;
+  margin-left: 35%;
+}
+hr{
+    margin-top: 5%;
+    color:black;
+}
+.me{
+    border: 2px solid black;
+    border-style: none;
+}
+.mao{
+    justify-content: center;
+    margin-left: 600px;
+    padding: auto;
+    width:fit-content;
+    background-color:burlywood
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width:1000px;
+    height:50px
+  }
+  th, td{
+    text-align: center;
+  }
+  
+.educ{
+    justify-content: center;
+}
+.photos, .photos1{
+   display: flex;
+   justify-content: space-evenly;
+   margin: auto;
+   gap: 2px;
+   margin-top: 10px;
+}
+.con{
+    justify-content: center;
+}
+
+
+
